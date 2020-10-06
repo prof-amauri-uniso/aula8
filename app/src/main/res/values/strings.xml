@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cafeteria com banco</string>
+    <string name="logo">Logo Cafeteria</string>
+    <string-array name="opcoes">
+        <item>Bebidas</item>
+        <item>Comida</item>
+        <item>Lojas </item>
+    </string-array>
+</resources>
